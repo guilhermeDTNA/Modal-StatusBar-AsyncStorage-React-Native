@@ -7,3 +7,4 @@ Após <a href="https://docs.expo.io/get-started/installation/" target="_blank">i
 $ npm install --force
 $ expo start
 
+```
