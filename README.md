@@ -1,11 +1,9 @@
 Projeto Expo com os components Modal, StatusBar e AsyncStorage do React Native para fins de estudo.
 
-Após instalar o expo e criar o projeto, basta incluir os arquivos no mesmo e executá-lo com o comando 'expo start'.
+Após <a href="https://docs.expo.io/get-started/installation/" target="_blank">instalar o expo</a> em sua máquina, basta fazer o download do projeto e executá-lo com os comandos: 
 
-Comandos para instalação dos pacotes via expo:
+```console
 
-expo install react-navigation react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+$ npm install --force
+$ expo start
 
-expo install react-navigation-drawer
-
-expo install react-navigation-tabs
